@@ -47,7 +47,7 @@ students(name) AS(
     ('Liam Martinez'),
     ('Richard Wong'),
     ('Lydia Miller-Jones'),
-    ('Archie Cohen'),
+    ('Archie-development Cohen'),
     ('Chad Takahashi'),
     ('Leopold Silvers'),
     ('Maria Boucher'),

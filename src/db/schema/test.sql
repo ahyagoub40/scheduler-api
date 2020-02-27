@@ -21,4 +21,4 @@ SELECT 1 as day_id, interviewers.interviewer_id FROM ( SELECT id AS interviewer_
 INSERT INTO available_interviewers (day_id, interviewer_id)
 SELECT 2 as day_id, interviewers.interviewer_id FROM ( SELECT id AS interviewer_id FROM interviewers ) interviewers;
 
-INSERT INTO interviews (student, interviewer_id, appointment_id) VALUES ('Archie Cohen', 1, 1);
+INSERT INTO interviews (student, interviewer_id, appointment_id) VALUES ('Archie-test Cohen', 1, 1);
